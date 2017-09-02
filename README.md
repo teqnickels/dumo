@@ -1,2 +1,37 @@
 # dumo
-Project based todo list 
+Project based todo list
+
+Create a to do list that
+- [] allows users to create accounts
+- [] allows users to sign up and sign in using facebook login
+- [] allows users to delete accounts
+- [] allows users to create new projects
+- [] allows users to describe projects
+- [] allows users to edit project names and descriptions
+- [] allows users to create project goals
+- [] allows users to create task lists for each goals
+- [] allows users to add/edit participants to projects
+- [] allows users to add/edit owners to tasks
+- [] allows users to add due dates to tasks
+- [] allows users to add/edit notes on goals
+- [] allows users to mark goals as completed
+- [] allows users to archive completed tasks/goals/projects
+- [] allows users to permanently delete archived tasks/goals/projects
+- [] allows users to view what percentage of a project was complete 'at-a-view'
+- [] allows users to set calendar reminders on their native calendars if a task has a due date
+
+
+# Routing
+## Express
+Use express to handle middlewear and routing
+
+# Authentication
+Unsure here because I haven't done any authentication as of yet
+
+#Database (Authentication)
+- [] use sql-based database for username and password storage
+- [] use pgpromise
+Find out whatever else you need to know for authentication
+
+#Project storage
+Use objects to store projects, goals, and tasks
