@@ -1,7 +1,7 @@
 # dumo
 Project based todo list
 
-Create a to do list that
+ Dumo is an open-source, downloadable project management software that:
 - [ ] allows users to create accounts
 - [ ] allows users to sign up and sign in using facebook login
 - [ ] allows users to delete accounts
@@ -19,7 +19,6 @@ Create a to do list that
 - [ ] allows users to permanently delete archived tasks/goals/projects
 - [ ] allows users to view what percentage of a project was complete 'at-a-view'
 - [ ] allows users to set calendar reminders on their native calendars if a task has a due date
-
 - [ ] allow users to chat with other user's in the same project
 
 
