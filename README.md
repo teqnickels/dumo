@@ -1,7 +1,7 @@
 # dumo
 Project based todo list
 
- Dumo is an open-source, downloadable project management software that:
+ Dumo is an open-source, project management desktop application that:
 - [ ] allows users to create accounts
 - [ ] allows users to sign up and sign in using facebook login
 - [ ] allows users to delete accounts
@@ -39,4 +39,7 @@ Use express to handle middlewear and routing
 # Project storage
 Use JSON objects to store projects, goals, and tasks - push to database
 
-# https://electron.atom.io/
+# Frameworks
+Electron 
+
+https://electron.atom.io/
