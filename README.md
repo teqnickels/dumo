@@ -20,18 +20,24 @@ Create a to do list that
 - [ ] allows users to view what percentage of a project was complete 'at-a-view'
 - [ ] allows users to set calendar reminders on their native calendars if a task has a due date
 
+- [ ] allow users to chat with other user's in the same project
+
 
 # Routing
 ## Express
 Use express to handle middlewear and routing
 
 # Authentication
-Unsure here because I haven't done any authentication as of yet
+- [ ] use bcrypt for authentication
 
-#Database (Authentication)
+(Unsure here because I haven't done any authentication as of yet)
+
+# Database (Authentication)
 - [ ] use sql-based database for username and password storage
 - [ ] use pgpromise
-Find out whatever else you need to know for authentication
+- [ ] use knex.js to send json objects to the db
 
-#Project storage
-Use objects to store projects, goals, and tasks
+# Project storage
+Use JSON objects to store projects, goals, and tasks - push to database
+
+# https://electron.atom.io/
