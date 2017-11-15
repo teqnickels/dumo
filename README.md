@@ -1,6 +1,15 @@
 # dumo
 Project based todo list
 
+dumo is a react app
+Stage 1
+CRUD functionality (react) 
+
+
+
+
+
+
  Dumo is an open-source, project management desktop application that:
 - [ ] allows users to create accounts
 - [ ] allows users to sign up and sign in using facebook login
